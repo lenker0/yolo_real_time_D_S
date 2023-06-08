@@ -1,8 +1,6 @@
 from ultralytics import YOLO
 import streamlit as st
 import cv2
-import pafy
-import youtube_dl
 
 import settings
 
