@@ -1,6 +1,6 @@
 # yolo_real_time_D_S
 
-pip install ultralytics streamlit - библы
+pip install -r requirements.txt - библы
 
 streamlit run app.py - запуск
 
